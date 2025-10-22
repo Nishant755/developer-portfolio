@@ -29,12 +29,11 @@ export default async function Home() {
     <div >
       <HeroSection />
       <AboutSection />
-      <Experience />
+      {/* <Experience />
       <Skills />
       <Projects />
       <Education />
-      {/* <Blog blogs={blogs} /> */}
-      <ContactSection />
+      <ContactSection /> */}
     </div>
   )
 };
