@@ -26,14 +26,14 @@ export default async function Home() {
   // const blogs = await getData();
 
   return (
-    <div >
+    <div>
       <HeroSection />
       <AboutSection />
       {/* <Experience /> */}
       <Skills />
       <Projects />
-      <Education />
+      {/* <Education /> */}
       <ContactSection />
     </div>
-  )
-};
+  );
+}
