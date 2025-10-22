@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Portfolio of Nishant Jambhulkar - Software Developer",
-  description:"Extremely driven A Node.js developer with 3 years experience in using Express.js and Fastify.js to create scalable back-end applications. competent in debugging and problem solving, with experience creating RESTful APIs and optimizing back-end performance for WhatsApp campaign execution.",
+  description:"Extremely driven A Node.js developer with 3 years experience in using Express.js and Fastify.js to create scalable back-end applications. competent in debugging and problem solving, with experience creating RESTful APIs and optimizing back-end performance for WhatsApp campaign execution.", 
 };
 
 export default function RootLayout({ children }) {
